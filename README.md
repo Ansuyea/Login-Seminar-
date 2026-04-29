@@ -14,12 +14,11 @@ The ‘Seminar Login’ app is a simple application designed to make registering
 5. Navigation bar at the bottom of the registration page
 
 ## Screenshot
-
-## How to install
-Setup steps
-
-## How to use
-Example of use
+![Login Page](assets/login1.jpeg)
+![Home Page](assets/HomePage.jpeg)
+![Registration form](assets/Registrationform.jpeg)
+![Check](assets/check.jpeg)
+![Results display form](assets/Resultsdisplayform.jpeg)
 
 ## Technologies
 - Kotlin
